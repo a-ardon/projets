@@ -12,4 +12,4 @@ que les commentaires soient en anglais, franglais ou français.
 
 Le but de ce repository est de me familiariser davantage avec git(hub) ainsi que prouver mes capacités en 
 
-terme de developement.
+terme de développement.
